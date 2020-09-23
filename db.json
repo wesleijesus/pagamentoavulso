@@ -1,4 +1,4 @@
-{[{
+[{
 		"id": 1,
 		"codigo_loja": "0018",
 		"data_emissao": "2020-07-30",
@@ -66,4 +66,4 @@
 		"externalOrderCode": "82044000001",
 		"valor_unitario": 119.9
 	}
-]}
+]
