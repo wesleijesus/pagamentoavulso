@@ -1,14 +1,35 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[{
+		"id": 1,
+		"codigo_loja": "0018",
+		"data_emissao": "2020-07-30",
+		"cod_cnpj_cpf": 28146920896,
+		"des_nome": "WASHINGTON LIMA",
+		"status": "NOTA FISCAL IMPRESSA",
+		"pedido": 5970,
+		"numero_danfe": 47480,
+		"serie": "01",
+		"des_produto": "LIQUIDIFICADOR",
+		"qtd_item": 1,
+		"valor_total": 119.9,
+		"des_endereco": "R JOAQUIM RONCHEZEL , 30",
+		"des_bairro": "JD DA EMILIA",
+		"des_municipio": "JAU",
+		"uf_cliente": "SP",
+		"cod_cep": 17215031,
+		"email": null,
+		"ddd": "0",
+		"fone": null,
+		"companynumber": "00001",
+		"originsystem": "PEDIDOS",
+		"customertype": "0",
+		"documenttype": "0",
+		"fiscalcostumerid": null,
+		"operatorcode": "0800",
+		"productcode": "8204400000",
+		"saleunit": "UN",
+		"imei": null,
+		"automationcode": "8204400002",
+		"externalOrderCode": "82044000001",
+		"valor_unitario": 119.9
+	}
+]
